@@ -1,6 +1,5 @@
 <header>
-# Blockchain Project 2025 Northern Heights
-  
+Blockchain Project 2025 Northern Heights
 </header>
 
 ## Stakeholders Overview
