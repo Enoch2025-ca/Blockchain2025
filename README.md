@@ -2,6 +2,8 @@
 </h1>
 
 ## Stakeholders Overview
+Ontario and Canada as a whole has had a very difficult last 5 plus years coming out of the Covid-19 Pandemic that had negative effect on the globle economies, now Trump's Tariffs are taking additional negative effect on Ontario economy. Trumps Adminstration has now made moves into both the Stable coin market and the Cannabis market. We at GC Solutions believe that a Blockchain Stablecoin Solutions backed by Cannabis is a great way to stay ahead of Trump and improve the economy of not just Ontario but of Canada.
+
 
 ### Stakeholder A
 
